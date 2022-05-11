@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clas1{
+    background-color: rgb(238,238,238) !important;
+}
+.gapp div{
+    padding: 10px;
+}
+
